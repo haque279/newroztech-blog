@@ -94,7 +94,7 @@ const PostDetails = () => {
       </Row>
       <Row>
         <Col>
-          <h5>Post a Commenst </h5>
+          <h5>Post a Comment </h5>
         </Col>
       </Row>
       <Row>
