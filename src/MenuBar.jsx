@@ -15,7 +15,7 @@ const MenuBar = () => {
       <Router>
         <Navbar bg='dark' variant='dark'>
           <Navbar.Brand>
-            <Link to='/'>Block Admin Dashboard</Link>
+            <Link to='/'>Admin Dashboard</Link>
           </Navbar.Brand>
           <Nav className='mr-auto'>
             <Link to='/'>Home</Link>
